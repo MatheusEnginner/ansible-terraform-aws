@@ -1,0 +1,6 @@
+# Ignorar arquivos de variáveis sensíveis
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+# Ignorar diretórios e arquivos temporários do Ansible
+*.retry
