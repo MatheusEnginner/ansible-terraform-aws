@@ -4,3 +4,4 @@ terraform.tfvars
 *.tfstate.*
 # Ignorar diretórios e arquivos temporários do Ansible
 *.retry
+.terraform/
